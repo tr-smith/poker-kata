@@ -5,7 +5,7 @@ This kata simulates a hand dealt in five card poker.
 
 The user is dealt 5 cards from a shuffled deck.
 
-The Possible Combinations are:
+The Possible Values are:
 
 - Royal Flush
 - Straight Flush
